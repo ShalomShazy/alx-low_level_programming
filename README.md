@@ -1,1 +1,1 @@
-betty
+0. isupper
